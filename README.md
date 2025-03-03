@@ -1,13 +1,15 @@
 ---
 
+# To-Do List with Memory
+
 ## 🚀 About
 **To-Do List with Memory** is a simple Python-based to-do list application that allows users to add, remove, and view tasks. The app stores tasks in a text file and provides a simple menu-driven interface for interacting with the list. This project is a good exercise for learning file handling and basic Python programming.
 
 ## 🛠️ Features
-- **Add Tasks:** Add new tasks to the to-do list.
-- **Remove Tasks:** Remove tasks by specifying the line number.
-- **View Tasks:** View the current to-do list stored in a text file.
-- **Simple Menu:** Easy-to-use text-based menu for interacting with the list.
+- **Add Tasks**: Add new tasks to the to-do list.
+- **Remove Tasks**: Remove tasks by specifying the line number.
+- **View Tasks**: View the current to-do list stored in a text file.
+- **Simple Menu**: Easy-to-use text-based menu for interacting with the list.
 
 ## ⚙️ Requirements
 - Python 3.x
