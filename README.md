@@ -15,8 +15,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/YourUsername/ToDo-List-With-Memory.git
-    cd ToDo-List-With-Memory
+    git clone https://github.com/TheJurmikDev/To-Do-List.git
+    cd To-Do-List
     ```
 
 2. Run the application:
