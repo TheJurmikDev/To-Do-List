@@ -21,7 +21,7 @@
 
 2. Run the application:
     ```bash
-    python todo_list.py
+    python ToDoList.py
     ```
 
 3. Follow the on-screen menu to add, remove, or view tasks.
